@@ -4,7 +4,7 @@ TSSSHOP.Theme = {
 	["base_color"] = Color(0,0,0,200),
 	["items_color"] = Color(255,255,255),
 	["text_color"] = Color(0,0,0),
-	["purchaseBtn"] = Color(153,153,255,255),
+	["purchaseBtn"] = Color(0,0,0,255),
 }
 
 --[[Exemple add new items for sell on the shop]]
